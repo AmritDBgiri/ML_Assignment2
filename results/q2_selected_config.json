@@ -1,0 +1,6 @@
+{
+  "max_depth": 3,
+  "n_rounds": 100,
+  "seed": 26001,
+  "validation_accuracy": 0.4625
+}
